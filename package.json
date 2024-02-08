@@ -1,0 +1,16 @@
+{
+  "name": "generate_qr_code",
+  "version": "1.0.0",
+  "description": "use QR code in stead of using url to access my gihub account ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kidist",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.14",
+    "qr-image": "^3.2.0"
+  }
+}
